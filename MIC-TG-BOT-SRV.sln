@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIC-TG-BOT-SRV", "MIC-TG-BOT-SRV\MIC-TG-BOT-SRV.csproj", "{5E24E7CC-57A4-4FA1-AC7E-33266154E924}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MIC-TG-BOT-SRV-INSTALLER", "MIC-TG-BOT-SRV-INSTALLER\MIC-TG-BOT-SRV-INSTALLER.vdproj", "{42E0282B-B375-4C5C-BAEE-D5D71822D603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E24E7CC-57A4-4FA1-AC7E-33266154E924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E24E7CC-57A4-4FA1-AC7E-33266154E924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E24E7CC-57A4-4FA1-AC7E-33266154E924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E24E7CC-57A4-4FA1-AC7E-33266154E924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E0282B-B375-4C5C-BAEE-D5D71822D603}.Debug|Any CPU.ActiveCfg = Debug
+		{42E0282B-B375-4C5C-BAEE-D5D71822D603}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D42E74-477F-42E9-990D-660E48C1452E}
+	EndGlobalSection
+EndGlobal
